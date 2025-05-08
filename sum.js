@@ -11,6 +11,5 @@ function sub(a, b) {
   return sub;
 }
 
-module.exports = sum;
-module.exports = sub;
+module.exports = { sum, sub };
 
